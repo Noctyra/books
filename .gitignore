@@ -1,0 +1,23 @@
+# Book files stay local.
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+
+# Local credentials and tool state.
+.aws/
+.codex/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies, generated files, and local backups.
+node_modules/
+.wrangler/
+*.log
+*.pid
+*.bundle
+.DS_Store

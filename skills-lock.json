@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "book-study": {
+      "source": "sanyuan0704/sanyuan-skills",
+      "commit": "08b6572ef108f22d4e8a3ecf9182a4bbef097744",
+      "sourceType": "github",
+      "skillPath": "skills/book-study/SKILL.md",
+      "computedHash": "3b033c1e0c2f20d963ff87270ee6868c6c60f033795a941382ab9adcb33c4e80"
+    }
+  }
+}
